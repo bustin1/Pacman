@@ -13,7 +13,7 @@ Java JDK installed.
 
 # Controls
 - **arrow keys** (up,left,down,right)
-- **tips**, don't hold them any arrow keys until you need to turn
+- **tip** don't hold any of the arrow keys until you need to turn. Somtimes pacman has a really hard time turning
 
 
 
